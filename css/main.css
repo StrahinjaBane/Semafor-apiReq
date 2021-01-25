@@ -1,0 +1,24 @@
+
+.semafor-container{
+    text-align: center;
+    margin: 30px 30px 30px 30px;
+}
+
+
+.semafor{
+    display: inline-block;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    background-color:yellow;
+    margin: 5px 5px 5px 5px;
+
+    
+}
+
+.active0{
+    background-color: red;
+}
+.active1{
+    background-color: green;
+}
